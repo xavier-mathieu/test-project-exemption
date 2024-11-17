@@ -1,8 +1,9 @@
 Project to assess the eligibility of an agent for exemption (curently for MTEL).
+
 This will need to be refined, reread for accuracy, and rebranded: purpose is to demonstrate the vision of the flow.
 
 Opportunity:
-- Could be used for other Ministries for teh PSC (same rules)
+- Could be used for other Ministries for the PSC (same rules)
 - Could serve as a basis for Enterprise (based on Contract type I guess)
 
 What it solves for:

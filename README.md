@@ -1,4 +1,4 @@
-Project to assess the eligibility of an agent (curently for MTEL).
+Project to assess the eligibility of an agent for exemption (curently for MTEL).
 This will need to be refined, reread for accuracy, and rebranded: purpose is to demonstrate the vision of the flow.
 
 Opportunity:

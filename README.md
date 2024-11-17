@@ -10,4 +10,4 @@ What it solves for:
 - Agent can easily follow the steps to discover on their own if they are eligible for a dispense
 - No need to contact Care (hope to decrease the contact rate for Public sector around exemption)
 - Scale very well for future contracts
-- Easy (IMO) to implement in our onboarding/exemption flow
+- Lowlift (I think) to implement in our onboarding/exemption flow
